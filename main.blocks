@@ -1,0 +1,18 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="})FM,Fa:=!~{UQ6*gKy*" x="0" y="0"><statement name="HANDLER"><block type="gamesetbackgroundimage" id="X9vy@Xr4k|krb.`BX)}6"><value name="img"><shadow type="background_image_picker" id="jtJ.sY9K_s=;-$ekgHmQ"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`</field><data>{"commentRefs":[],"fieldData":{"img":"jtJ.sY9K_s=;-$ekgHmQ"}}</data></shadow></value></block></statement></block></xml>
